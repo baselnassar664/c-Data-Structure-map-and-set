@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1667830160 source:c:\csdiploma\test\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+	<functional>
+	<algorithm>
+	<fstream>
+	<sstream>
+	<vector>
+	<windows.h>
+	<map>
+	<set>
+	<iterator>
+
